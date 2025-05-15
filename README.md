@@ -14,3 +14,4 @@ An AI Agent for business to collect leads, chat with clients and schedule appoin
    - B: Questioned about business
    - C: No inquiry / response / nuances
 1. Schedule and email Appointment to user (Google Calendar, Gmail, WhatsApp)
+1. [OPTIONAL] store user details, summarize inquiries and manage lead stages
