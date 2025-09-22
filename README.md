@@ -4,7 +4,8 @@ Link: [click me](https://appointment-ai.alvinchiew.com/)
 
 ## Overview
 
-An advanced AI-powered solution designed for sales leaders and agencies, streamlining routine tasks — from managing customer inquiries to scheduling in-person meetings with sales representatives.
+An advanced AI-powered system solution for sales leaders and agencies, centralizing information, automating routine tasks, and enabling data-driven decisions.
+
 
 ![login](assets/login.png)
 
