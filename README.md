@@ -10,8 +10,6 @@ A smart & centralized system for sales leaders and agencies — automating routi
 
 ## Features
 
-![Features](assets/features.png)
-
 1. **AI WhatsApp Customer Engagement**
    - Product question (text, voice) and answer (text, document, audio, video)
    - Appointment Scheduling
@@ -57,3 +55,7 @@ A smart & centralized system for sales leaders and agencies — automating routi
    - AI multi-platform handling (Facebook, TikTok, Instagram, etc.)
    - AI content creation (ads article, image, video)
    - Traditional automated WhatsApp reply SOP workflow integration for cost saving
+
+![Features](assets/features-light.png)
+
+![Features](assets/features-dark.png)
