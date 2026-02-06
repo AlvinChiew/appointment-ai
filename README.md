@@ -4,7 +4,9 @@ Link: [click me](https://appointment-ai.alvinchiew.com/)
 
 ## Overview
 
-A smart & centralized system for sales leaders and agencies — automating routine tasks, enabling data-driven decisions, and shifting focus from online presence to closing deals face-to-face.
+A smart & centralized system for sales leaders and agencies — automates routine tasks and enabling data-driven decisions — shifts focus from online presence to closing deals face-to-face.
+
+Currently handles WhatsApp inquiries, customer follow up, appointment scheduling and lead assignment using LLM AI agent, RAG system and MCP servers. Comes with a full suite of CRM web app for leads, product knowledge base, and sales automation configurations. Operates in enterprise production grade with zero down time, automated integration and deployment (CI/CD) with GitOps, and infrastructure as code (IaaS)
 
 ![login](assets/login.png)
 
