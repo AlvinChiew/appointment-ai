@@ -48,7 +48,7 @@ Currently handles WhatsApp inquiries, customer follow up, appointment scheduling
    - Import leads from one product to another
 1. **[FUTURE] Leads Analytics - Operation Dashboard**
    - One stop business intelligence for data driven decision making
-1. **[IN-PROGRESS] AI Content **  
+1. **[IN-PROGRESS] AI Marketing**  
    - AI trending headline research based on product
    - AI content creation (ads article, image, video)
 1. **[FUTURE] Potential Additional Features**
