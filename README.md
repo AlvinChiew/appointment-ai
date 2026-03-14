@@ -29,7 +29,7 @@ Currently handles WhatsApp inquiries, customer follow up, appointment scheduling
 1. **Product Management**
    - Centralized product information managed by organization
    - Product team assignment for scheduled appointments
-   - **[FUTURE]** AI Customer-Product matching via RAG system
+   - AI Customer-Product matching via RAG system
 1. **Member Management**
    - Organization Member for product information sharing
    - Team Member for lead assignment
