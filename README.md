@@ -15,14 +15,15 @@ Currently handles WhatsApp inquiries, customer follow up, appointment scheduling
 1. **AI WhatsApp Customer Engagement**
    - Product question (text, voice) and answer (text, document, audio, video)
    - Appointment Scheduling
-   - Product Order Handling (Order Placement, Receipt Submission)
+   - **[ENHANCING]** Product Order Handling (Order Placement, Receipt Submission)
+   - **[FUTURE]** Form submission
    - Customer / bot spam handling
-   - Multiple bots setup in one account
+   - Multiple bots setup
 1. **AI Leads Management**
    - Lead information, e.g. customer, chat, appointment, sales representative, etc.
    - Customer grading
-   - **[FUTURE]** Customer profiling (budget, location, gender, age, etc.)
-   - Export to CSV
+   - **[IN-PROGRESS]** AI Customer profiling (budget, location, gender, age, etc.)
+   - Export to MS Excel
 1. **[FUTURE] Chat Management**
    - Unified WhatsApp chat between sales leader and representative for each customer
 1. **Product Management**
@@ -41,12 +42,15 @@ Currently handles WhatsApp inquiries, customer follow up, appointment scheduling
    - Auto reply and product mapping based on ads message
    - AI personalization train ground based on product-specialized sales techniques
 1. **Auto WhatsApp Blasting**
-   - Anti-ban WhatsApp blasting technique integration
+   - Anti-ban WhatsApp blasting configuration integration
    - Customer lead follow up
-   - **[FUTURE]** Customer appointment reminder & confirmation
+   - Customer appointment reminder & confirmation
    - Import leads from one product to another
 1. **[FUTURE] Leads Analytics - Operation Dashboard**
    - One stop business intelligence for data driven decision making
+1. **[IN-PROGRESS] AI Content **  
+   - AI trending headline research based on product
+   - AI content creation (ads article, image, video)
 1. **[FUTURE] Potential Additional Features**
    - AI Talk bot
    - AI Product summarizer
@@ -55,7 +59,6 @@ Currently handles WhatsApp inquiries, customer follow up, appointment scheduling
    - AI sales assistant to guide new agents on personalized sales technique (alternative to AI bot reply)
    - AI email handling
    - AI multi-platform handling (Facebook, TikTok, Instagram, etc.)
-   - AI content creation (ads article, image, video)
    - Traditional automated WhatsApp reply SOP workflow integration for cost saving
 
 ![Features](assets/features-light.png)
