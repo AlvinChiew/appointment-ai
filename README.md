@@ -53,6 +53,7 @@ Currently handles WhatsApp inquiries, customer follow up, appointment scheduling
 1. **[IN-PROGRESS] AI Marketing**  
    - AI trending headline research based on product
    - AI content creation (ads article, image, video)
+   - AI landing page generation
 1. **[FUTURE] Potential Additional Features**
    - AI Talk bot
    - AI Product summarizer
