@@ -14,10 +14,12 @@ Currently handles WhatsApp inquiries, customer follow up, appointment scheduling
 
 1. **AI WhatsApp Customer Engagement**
    - Product question (text, voice) and answer (text, document, audio, video)
+   - AI Customer-Product matching via RAG system
+   - Automated follow-up
    - Appointment Scheduling
-   - **[ENHANCING]** Product Order Handling (Order Placement, Receipt Submission)
-   - **[FUTURE]** Form submission
-   - Customer / bot spam handling
+   - **[ON-HOLD]** Product Order Handling (Order Placement, Receipt Submission) - Use form instead
+   - Form submission
+   - **[IN-PROGRESS]** spam handling
    - Multiple bots setup
 1. **AI Leads Management**
    - Lead information, e.g. customer, chat, appointment, sales representative, etc.
@@ -28,8 +30,7 @@ Currently handles WhatsApp inquiries, customer follow up, appointment scheduling
    - Unified WhatsApp chat between sales leader and representative for each customer
 1. **Product Management**
    - Centralized product information managed by organization
-   - Product team assignment for scheduled appointments
-   - AI Customer-Product matching via RAG system
+   - Product-team assignment
 1. **Member Management**
    - Organization Member for product information sharing
    - Team Member for lead assignment
@@ -41,9 +42,10 @@ Currently handles WhatsApp inquiries, customer follow up, appointment scheduling
 1. **AI Studio**
    - Auto reply and product mapping based on ads message
    - AI personalization train ground based on product-specialized sales techniques
+   - **[IN-PROGRESS]** AI Customer Profile Tag customization 
 1. **Auto WhatsApp Blasting**
    - Anti-ban WhatsApp blasting configuration integration
-   - Customer lead follow up
+   - Customer lead follow up customization 
    - Customer appointment reminder & confirmation
    - Import leads from one product to another
 1. **[FUTURE] Leads Analytics - Operation Dashboard**
