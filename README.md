@@ -63,6 +63,8 @@ Currently handles WhatsApp inquiries, customer follow up, appointment scheduling
    - AI email handling
    - AI multi-platform handling (Facebook, TikTok, Instagram, etc.)
    - Traditional automated WhatsApp reply SOP workflow integration for cost saving
+   - Membership & Reward system integration for customer retention
+   - Sales & Accounting system integration
 
 ![Features](assets/features-light.png)
 
