@@ -19,8 +19,8 @@ Currently handles WhatsApp inquiries, customer follow up, appointment scheduling
    - Appointment Scheduling
    - **[ON-HOLD]** Product Order Handling (Order Placement, Receipt Submission) - Use form instead
    - Form submission
-   - **[IN-PROGRESS]** spam handling
    - Multiple bots setup
+   - **[FUTURE]** AI spam handling (human/bot)
 1. **AI Leads Management**
    - Lead information, e.g. customer, chat, appointment, sales representative, etc.
    - Customer grading
