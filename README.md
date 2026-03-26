@@ -17,7 +17,7 @@ Currently handles WhatsApp inquiries, customer follow up, appointment scheduling
    - AI Customer-Product matching via RAG system
    - Automated follow-up
    - Appointment Scheduling
-   - **[ON-HOLD]** Product Order Handling (Order Placement, Receipt Submission) - Use form instead
+   - **[ON-DEMAND]** Product Order Handling (Order Placement, Receipt Submission) - Use form instead
    - Form submission
    - Multiple bots setup
    - **[FUTURE]** AI spam handling (human/bot)
