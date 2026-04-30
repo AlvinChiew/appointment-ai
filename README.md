@@ -24,7 +24,7 @@ Currently handles WhatsApp inquiries, customer follow up, appointment scheduling
 1. **AI Leads Management**
    - Lead information, e.g. customer, chat, appointment, sales representative, etc.
    - Customer grading
-   - **[IN-PROGRESS]** AI Customer profiling (budget, location, gender, age, etc.)
+   - AI Customer profiling (budget, location, gender, age, etc.)
    - Export to MS Excel
 1. **[FUTURE] Chat Management**
    - Unified WhatsApp chat between sales leader and representative for each customer
@@ -42,7 +42,7 @@ Currently handles WhatsApp inquiries, customer follow up, appointment scheduling
 1. **AI Studio**
    - Auto reply and product mapping based on ads message
    - AI personalization train ground based on product-specialized sales techniques
-   - **[IN-PROGRESS]** AI Customer Profile Tag customization 
+   - AI Customer Profile Tag customization 
 1. **Auto WhatsApp Blasting**
    - Anti-ban WhatsApp blasting configuration integration
    - Customer lead follow up customization 
