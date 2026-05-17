@@ -1,5 +1,7 @@
 # Appointment AI
 
+♻️ Reduce, recover, and recycle LOST customers and appointments 📲💰
+
 Link: [click me](https://appointment-ai.alvinchiew.com/)
 
 ## Overview
@@ -42,15 +44,15 @@ Currently handles WhatsApp inquiries, customer follow up, appointment scheduling
 1. **AI Studio**
    - Auto reply and product mapping based on ads message
    - AI personalization train ground based on product-specialized sales techniques
-   - AI Customer Profile Tag customization 
+   - AI Customer Profile Tag customization
 1. **Auto WhatsApp Blasting**
    - Anti-ban WhatsApp blasting configuration integration
-   - Customer lead follow up customization 
+   - Customer lead follow up customization
    - Customer appointment reminder & confirmation
    - Import leads from one product to another
 1. **[FUTURE] Leads Analytics - Operation Dashboard**
    - One stop business intelligence for data driven decision making
-1. **[IN-PROGRESS] AI Marketing**  
+1. **[IN-PROGRESS] AI Marketing**
    - AI trending headline research based on product
    - AI content creation (ads article, image, video)
    - AI landing page generation
